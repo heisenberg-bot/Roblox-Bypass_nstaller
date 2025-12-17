@@ -25,9 +25,9 @@
 ### Installation
 ```powershell
 # Method 1: Download and run
-git clone https://github.com/yourusername/Roblox-Installer.git
+git clone https://github.com/heisenberg-bot/Roblox-Installer.git
 cd Roblox-Installer/src
 install.bat
 
 # Method 2: Direct PowerShell (run as admin)
-irm https://raw.githubusercontent.com/yourusername/Roblox-Installer/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/heisenberg-bot/Roblox-Installer/main/install.ps1 | iex
